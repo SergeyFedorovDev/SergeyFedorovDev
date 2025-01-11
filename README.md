@@ -217,7 +217,3 @@
     </td>
   </tr>
 </table>
-
-## Codewars 🔥
-
-![codewars](https://www.codewars.com/users/SergeyFedorovDev/badges/large)
