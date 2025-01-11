@@ -220,4 +220,4 @@
 
 ## Codewars 🔥
 
-![codewars](https://www.codewars.com/users/Dazmond_ru/badges/large)
+![codewars](https://www.codewars.com/users/SergeyFedorovDev/badges/large)
